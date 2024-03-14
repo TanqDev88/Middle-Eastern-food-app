@@ -211,9 +211,3 @@ class MainActivity : AppCompatActivity(){
         )
     }
 }
-
-    private fun navegarDetalle(receta: Receta) {
-        val intent = Intent(this, DetailActivity::class.java)
-        intent.putExtra("receta", receta)
-        startActivity(intent)
-    }
