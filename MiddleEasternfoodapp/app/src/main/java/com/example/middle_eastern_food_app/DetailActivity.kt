@@ -14,6 +14,17 @@ class DetailActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
 
+        val receta = intent.getParcelableExtra<Receta>("receta")
 
+        tvnombreDetail = findViewById(R.id.tv_nombre_detail)
+        tvIngredientesDetail = findViewById(R.id.tv_ingredientesDetail)
+
+        ivLogo = findViewById(R.id.iv_logo_detail)
+
+
+        tvnombreDetail.text = receta?.nombre
+        tvIngredientesDetail.text = receta?.ingredientes
+
+        Glide.with(this).load(receta?.logo).into(ivLogo)
     }
 }
