@@ -18,6 +18,15 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
 
+    <TextView
+        android:id="@+id/tv_nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:text="Nombre"
+        app:layout_constraintStart_toEndOf="@+id/iv_logo"
+        tools:layout_editor_absoluteY="9dp" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recetas"
         android:layout_width="0dp"
