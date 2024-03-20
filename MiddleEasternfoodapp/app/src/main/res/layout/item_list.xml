@@ -27,6 +27,17 @@
         app:layout_constraintStart_toEndOf="@+id/iv_logo"
         tools:layout_editor_absoluteY="9dp" />
 
+    <TextView
+        android:id="@+id/tv_dificultad"
+        android:layout_width="67dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Dificultad:"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintStart_toEndOf="@+id/tv_label_dificulta"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombre" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recetas"
         android:layout_width="0dp"
