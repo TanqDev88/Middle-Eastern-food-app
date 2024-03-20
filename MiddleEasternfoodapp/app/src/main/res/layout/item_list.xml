@@ -38,6 +38,18 @@
         app:layout_constraintStart_toEndOf="@+id/tv_label_dificulta"
         app:layout_constraintTop_toBottomOf="@+id/tv_nombre" />
 
+    <TextView
+        android:id="@+id/tv_pais"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pais"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.251"
+        app:layout_constraintStart_toEndOf="@+id/tv_label_origen"
+        app:layout_constraintTop_toBottomOf="@+id/tv_dificultad"
+        app:layout_constraintVertical_bias="0.509" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recetas"
         android:layout_width="0dp"
