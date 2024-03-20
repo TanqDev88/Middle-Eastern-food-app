@@ -50,6 +50,16 @@
         app:layout_constraintTop_toBottomOf="@+id/tv_dificultad"
         app:layout_constraintVertical_bias="0.509" />
 
+    <ImageView
+        android:id="@+id/iv_bandera"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recetas"
         android:layout_width="0dp"
