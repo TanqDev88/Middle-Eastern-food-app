@@ -72,6 +72,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/iv_logo" />
 
+    <TextView
+        android:id="@+id/tv_label_dificulta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Dificultad"
+        app:layout_constraintStart_toEndOf="@+id/iv_logo"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nombre" />
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recetas"
         android:layout_width="0dp"
