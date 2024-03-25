@@ -8,3 +8,13 @@ In this repository there is the project corresponding to an application that sho
 
 ## General information
 ***
+
+### Main menu
+
+## Project Status 🚧
+<details>
+     <summary>Click Here for Detail ↩️</summary>
+     <br>
+    <p align="justify">The project is currently in a completed state since the guidelines established for the application, both functional and visual improvements, are met.🔨 </p>
+    </details>
+    <hr>
