@@ -2,6 +2,9 @@
 
 ![Image text](https://www.brasileiraspelomundo.com/wp-content/uploads/2019/05/ramadan-2715812_1920.jpg)
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 In this repository there is the project corresponding to an application that shows recipes for typical foods from the Middle East region along with their recipes and countries of origin.
 
