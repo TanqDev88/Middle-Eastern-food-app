@@ -36,4 +36,25 @@ In this repository there is the project corresponding to an application that sho
    <li>Kotlin: <a href="https://kotlinlang.org/">Link to the official language documentation</a></li>
 </ul>
 
-## Project Installation Clone the project from the following Github URL. ''' $git clone https://github.com/jorgedan88/herramientas-parcial1-OliveraJorgeDaniel.git ''' 2 - Open the project in the Android studio IDE 3- Deploy the application on a device (Emulator or Physical Device)
+   </details>
+   <hr>
+<a name="installation"></a>
+
+## Project installation 💻
+<details>
+    <summary>Click Here for Detail ↩️</summary>
+    <br>
+
+***
+1 - Clone the project from the following Github URL.
+```
+$ git clone https://github.com/TanqDev88/Middle-Eastern-food-app.git
+
+```
+
+2 - Open the project in the Android studio IDE<br><br>
+3- Deploy the application on a device (Emulator or Physical Device)<br>
+</details>
+<hr>
+
+
