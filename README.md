@@ -1,4 +1,8 @@
-<h1>Middle-Eastern-food-app</h1>
+<h1 align="center">
+  <p align="center">Middle Eastern food app</p>
+</h1>
+
+<h1></h1>
 
 ![Image text](https://www.brasileiraspelomundo.com/wp-content/uploads/2019/05/ramadan-2715812_1920.jpg)
 
